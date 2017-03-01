@@ -1,0 +1,26 @@
+#mynavbar{
+	background-color:#0F6FB9;
+	
+}
+#navbarlist{
+	margin-right:80px;
+}
+#navbarlist li a{
+	color:white;
+	font-size:16px;
+}
+#navbarlist li a:hover{
+	color:#E8E0E0;
+}
+.dropdown-menu{
+	background-color:#0F6FB9;
+} 
+
+#dashboardcontainer{
+	margin-top:120px;
+	color:black;
+	
+}
+#mycontainer{
+	margin-top:120px;
+}
