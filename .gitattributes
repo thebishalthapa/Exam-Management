@@ -1,2 +1,2 @@
-linguist-language=Java
-linguist-language=Spring
+*.rb linguist-language=Java
+*.rb linguist-language=JavaScript
