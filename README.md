@@ -1,4 +1,4 @@
-# School Management System is a whole new approach to school management
+# SMS is a whole new approach to school management
 SMS (School Management System) is a whole new approach to school management… Education system forms the backboneof every nation.
 In recent times, advanced technology is extensively being used to revolutionize school management by streamlining 
 education-related processes. 
