@@ -1,8 +1,8 @@
-# Marks management is a simple approach to generate report card of exam
-Marks management is a simple approach to generate report card of exam
+# Report generator is a simple approach to generate and print reports of exam for high schools and for samll educationao institution.
+Report generator is a simple approach to generate and print reports of exam for high schools and for samll educationao institution.
 
-The  system is easy to configure and extend for a developer, but also very efficient and scalable. Moreover, the technology that is
-used (Java,Spring MVC,Hibernate,AJAX,JSON and others) ensures high reliability of the framework. 
+The  system is easy to configure and extend for a java developer. Moreover, the technology that is
+used (Java,Spring MVC,Hibernate,AJAX,JSON).
 
 <b> Project Screen Shot </b> 
 <p align="center"> 
