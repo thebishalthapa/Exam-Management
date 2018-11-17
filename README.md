@@ -1,5 +1,5 @@
-# Report generator is a simple approach to generate and print reports of exam for high schools and for samll educationao institution.
-Report generator is a simple approach to generate and print reports of exam for high schools and for samll educationao institution.
+# Simple approach to generate and print reports.
+Report generator is a simple approach to generate and print reports of exam for high schools and for samll educational institution.
 
 The  system is easy to configure and extend for a java developer. Moreover, the technology that is
 used (Java,Spring MVC,Hibernate,AJAX,JSON).
