@@ -1,11 +1,8 @@
-# Exam Management is a whole new approach to school management
-Exam Management is a whole new approach to school management
-Education system forms the backboneof every nation.
-In recent times, advanced technology is extensively being used to revolutionize school management by streamlining 
-education-related processes. 
+# Marks management is a simple approach to generate report card of exam
+Marks management is a simple approach to generate report card of exam
 
-The whole system is easy to configure and extend, but also very efficient and scalable. Moreover, the technology that is
-used (Java,Spring MVC,Hibernate,AJAX,JSON and others) ensures high reliability of the framework 
+The  system is easy to configure and extend for a developer, but also very efficient and scalable. Moreover, the technology that is
+used (Java,Spring MVC,Hibernate,AJAX,JSON and others) ensures high reliability of the framework. 
 
 <b> Project Screen Shot </b> 
 <p align="center"> 
